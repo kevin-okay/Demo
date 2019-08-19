@@ -1,0 +1,13 @@
+p, span, h1 {
+    font-size:30px;
+    color: orange;
+}
+
+div span {
+    font-size: 25px;
+    color: blue;
+}
+
+* {
+    box-sizing: box
+}
